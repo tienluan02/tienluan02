@@ -1,4 +1,4 @@
 - 👋 Hi, my name is Luan, currently I'm the junior at International University - VNU HCMC. I'm interested in mobile apps, I am using Flutter as my main SDK to build cross-platform apps.
 - 🌱 I’m currently learning Kotlin so that I could build native Android apps. In the future, I want to learn Swift and become an IOS developer.
-- 📫 How to reach me at my LinkedIn account: https://www.linkedin.com/in/tien-luan-nguyen-5b819b2ba/
+- 📫 You can reach me at my LinkedIn account: https://www.linkedin.com/in/tien-luan-nguyen-5b819b2ba/
 - ⚡ Hope to work with you in the future.
